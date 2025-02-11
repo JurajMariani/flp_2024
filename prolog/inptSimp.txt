@@ -1,0 +1,8 @@
+S a S R
+S a A R
+S a B R
+A b A R
+A b B R
+B a A R
+B a F R
+aaaaaaa

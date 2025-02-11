@@ -1,0 +1,8 @@
+Doplnok k projektu "Rozhodovaci stromy"
+Autor: Juraj Mariani, xmaria03, <xmaria03@stud.fit.vutbr.cz>
+Datum: 31.03.2024
+
+Funkcionalita nad ramec projektu implementovana nebola.
+Zakladnu funkcionalitu prilozeny program splnuje.
+Trenovanie stromu datasetom sa v istych pripadoch ukazuje ako slabsie.
+
